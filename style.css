@@ -18,10 +18,11 @@ body {
 .main-coffe-coffe-image{
     margin: auto;
     display: block;
-    max-height: 780px;
+    max-height: 790px;
     max-width: 390px;
     border-radius: 10px;
     background-color: black;
+    
 }
 /*-------------------*/
 /*main-coffe-coffe*/
@@ -46,7 +47,9 @@ body {
 .main-coffe-carrosel img{
     object-fit: cover;
     max-height: 790.5px;
-    min-width: 390px;
+    min-width: 300px;
+    background-color: black;
+
 }
 
 /*main-coffe-carrosel-container*/
